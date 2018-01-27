@@ -83,4 +83,10 @@ Erlang (SMP,ASYNC_THREADS,HIPE) (BEAM) emulator version 9.2
 ``` 
 $ \curl -sSL https://raw.githubusercontent.com/taylor/kiex/master/install | bash -s
 $ kiex install 1.6.0
+$ kiex use 1.6.0
+$ iex
+Erlang/OTP 20 [erts-9.2] [source] [64-bit] [smp:8:8] [ds:8:8:10] [async-threads:10] [hipe] [kernel-poll:false]
+
+Interactive Elixir (1.6.0) - press Ctrl+C to exit (type h() ENTER for help)
+iex(1)>
 ```
