@@ -90,3 +90,7 @@ Erlang/OTP 20 [erts-9.2] [source] [64-bit] [smp:8:8] [ds:8:8:10] [async-threads:
 Interactive Elixir (1.6.0) - press Ctrl+C to exit (type h() ENTER for help)
 iex(1)>
 ```
+
+## Deploy Heroku
+- guide: https://medium.com/@yasserhussain1110/how-to-deploy-phoenix-app-to-heroku-95d4bef32322
+- result: http://hello-phx.herokuapp.com/
